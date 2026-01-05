@@ -5,7 +5,7 @@ Aqui cada projeto é um passo a mais na construção da minha base como desenvol
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 Sou iniciante na área de tecnologia, mas **extremamente dedicada e curiosa**.  
 Acredito que aprender programação vai muito além de escrever código: é sobre **resolver problemas, criar experiências e evoluir constantemente**.
@@ -14,7 +14,7 @@ Este GitHub é o meu **cantinho de experimentação**, estudo e prática, onde i
 
 ---
 
-## 🚀 Tecnologias em foco
+##  Tecnologias em foco
 
 Atualmente estou concentrada em:
 
@@ -26,7 +26,7 @@ Cada projeto reflete meu esforço em entender **boas práticas**, lógica e orga
 
 ---
 
-## 🧠 Aprendizado e crescimento
+##  Aprendizado e crescimento
 
 Aqui você encontrará:
 
@@ -39,7 +39,7 @@ Erro faz parte do processo — e **cada erro é aprendizado aplicado**.
 
 ---
 
-## 🤖 Próximos passos
+##  Próximos passos
 
 - Estruturar melhor projetos e repositórios
 - Aprofundar JavaScript (DOM, lógica e fundamentos)
@@ -48,7 +48,7 @@ Erro faz parte do processo — e **cada erro é aprendizado aplicado**.
 
 ---
 
-## 🌱 Filosofia
+##  Filosofia
 
 > Código é construção diária.  
 > Pequenos avanços feitos com consistência criam grandes resultados.
