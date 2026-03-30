@@ -1,60 +1,58 @@
 ✨ Bem-vindo(a) ao meu espaço criativo no GitHub ✨
 
-Este repositório representa meu **processo de aprendizado, evolução e criatividade** no desenvolvimento web.  
-Aqui cada projeto é um passo a mais na construção da minha base como desenvolvedora.
+Desenvolvedora de Software em formação, com foco em desenvolvimento web e experiência prática em projetos front-end e full stack.
 
----
+Sobre mim:
 
-##  Sobre mim
+Atualmente curso Análise e Desenvolvimento de Sistemas e venho construindo minha base através de projetos reais, com foco em aplicações web modernas, bem estruturadas e escaláveis.
 
-Sou iniciante na área de tecnologia, mas **extremamente dedicada e curiosa**.  
-Acredito que aprender programação vai muito além de escrever código: é sobre **resolver problemas, criar experiências e evoluir constantemente**.
+Tenho experiência no desenvolvimento de interfaces utilizando React, JavaScript e TypeScript, além de conhecimento em backend com Node.js e Express, criando APIs e integrando com bancos de dados.
 
-Este GitHub é o meu **cantinho de experimentação**, estudo e prática, onde ideias ganham forma através do código.
+Também possuo vivência em suporte técnico e infraestrutura de TI, o que me proporciona uma visão mais ampla sobre sistemas, resolução de problemas e funcionamento completo de aplicações.
 
----
+🧠 Tecnologias e Ferramentas
 
-##  Tecnologias em foco
+Front-end:
 
-Atualmente estou concentrada em:
+React.js
+Next.js
+JavaScript / TypeScript
+HTML / CSS
 
-- 🌐 **HTML** — estrutura e semântica
-- 🎨 **CSS** — estilo, layout e responsividade
-- ⚙️ **JavaScript** — lógica, interatividade e fundamentos da programação
+Back-end:
 
-Cada projeto reflete meu esforço em entender **boas práticas**, lógica e organização de código.
+Node.js
+Express
 
----
+Banco de Dados:
 
-##  Aprendizado e crescimento
+PostgreSQL
+SQLite
 
-Aqui você encontrará:
+Outros:
 
-- Projetos de estudo e prática
-- Exercícios de lógica
-- Testes de layout e interações
-- Experimentos criativos com front-end
+Git & GitHub
+APIs REST
+Autenticação com JWT
+Estruturação de projetos
 
-Erro faz parte do processo — e **cada erro é aprendizado aplicado**.
+Objetivo:
 
----
+Busco uma oportunidade como Desenvolvedora Front-end ou Full Stack Júnior, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
 
-##  Próximos passos
+📫 Contato
 
-- Estruturar melhor projetos e repositórios
-- Aprofundar JavaScript (DOM, lógica e fundamentos)
-- Criar projetos mais completos com HTML + CSS + JS
-- Explorar o uso de **IA como ferramenta de estudo e apoio ao desenvolvimento**
+📧 Email: jessicadiniz1224@gmail.com
 
----
+🔗 LinkedIn: https://linkedin.com/in/jéssica-diniz-2998611a0/
 
-##  Filosofia
+💻 GitHub: https://github.com/jejediniz
 
-> Código é construção diária.  
-> Pequenos avanços feitos com consistência criam grandes resultados.
+📈 Em constante evolução
 
-Este repositório é um registro real da minha jornada, simples, honesta e em constante evolução.
+Estou sempre estudando e aprimorando minhas habilidades, com foco em:
 
----
-
-⭐ Se quiser acompanhar meu crescimento, fique à vontade para explorar meus projetos.
+Boas práticas de desenvolvimento
+Arquitetura de projetos
+Performance e UX
+Tecnologias modernas do ecossistema web.
