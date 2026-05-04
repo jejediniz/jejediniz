@@ -1,46 +1,67 @@
-✨ Bem-vindo(a) ao meu espaço criativo no GitHub ✨
+# Sou a Jéssica 👋
 
-Desenvolvedora de Software em formação, com foco em desenvolvimento web e experiência prática em projetos front-end e full stack.
+Sou desenvolvedora em formação, estudante de **Análise e Desenvolvimento de Sistemas**, com experiência prática em **desenvolvimento web**, **suporte técnico** e **infraestrutura de TI**.
 
-Sobre mim:
+Tenho construído minha trajetória unindo a base técnica do suporte com o desenvolvimento de aplicações modernas, buscando criar soluções funcionais, bem estruturadas e úteis para problemas reais.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e venho construindo minha base através de projetos reais, com foco em aplicações web modernas, bem estruturadas e escaláveis.
+Atualmente, meu foco está em projetos **front-end** e **full stack**, utilizando tecnologias como **React, Next.js, JavaScript, TypeScript, Node.js, Express e PostgreSQL**.
 
-Tenho experiência no desenvolvimento de interfaces utilizando React, JavaScript e TypeScript, além de conhecimento em backend com Node.js e Express, criando APIs e integrando com bancos de dados.
+---
 
-Também possuo vivência em suporte técnico e infraestrutura de TI, o que me proporciona uma visão mais ampla sobre sistemas, resolução de problemas e funcionamento completo de aplicações.
+## Sobre mim
 
-🧠 Tecnologias e Ferramentas
+Minha experiência com suporte técnico me deu uma visão ampla sobre o funcionamento de sistemas, atendimento a usuários, resolução de problemas e organização de processos.
 
-Front-end:
+Na área de desenvolvimento, venho aprofundando meus conhecimentos por meio de projetos práticos, especialmente aplicações web com autenticação, consumo de APIs, banco de dados e estruturação de interfaces.
 
-React.js /
-Next.js /
-JavaScript / TypeScript /
-HTML / CSS
+Tenho interesse em criar sistemas que sejam não apenas visualmente organizados, mas também claros, escaláveis e fáceis de manter.
 
-Back-end:
+---
 
-Node.js
-Express
+## Tecnologias e ferramentas
 
-Banco de Dados:
+### Front-end
 
-PostgreSQL
-SQLite
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
 
-Outros:
+### Back-end
 
-Git & GitHub
-APIs REST
-Autenticação com JWT
-Estruturação de projetos
+- Node.js
+- Express
+- APIs REST
+- Autenticação com JWT
 
-Objetivo:
+### Banco de Dados
 
-Busco uma oportunidade como Desenvolvedora Front-end ou Full Stack Júnior, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções reais.
+- PostgreSQL
+- SQLite
 
-📫 Contato
+### Ferramentas e outros conhecimentos
+
+- Git e GitHub
+- Estruturação de projetos
+- Integração com APIs
+- Suporte técnico
+- Infraestrutura de TI
+- Lógica de programação
+- Organização de sistemas
+
+---
+
+## Projetos em desenvolvimento
+
+Atualmente venho trabalhando em projetos próprios para fortalecer minha experiência prática, incluindo sistemas voltados para gestão, organização de chamados, dashboards, autenticação, banco de dados e interfaces administrativas.
+
+Um dos meus principais focos é o desenvolvimento de aplicações que simulem demandas reais do mercado, com atenção à estrutura do código, experiência do usuário e boas práticas de desenvolvimento.
+
+---
+
+## Contato
 
 📧 Email: jessicadiniz1224@gmail.com
 
