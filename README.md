@@ -14,9 +14,9 @@ Também possuo vivência em suporte técnico e infraestrutura de TI, o que me pr
 
 Front-end:
 
-React.js
-Next.js
-JavaScript / TypeScript
+React.js /
+Next.js /
+JavaScript / TypeScript /
 HTML / CSS
 
 Back-end:
